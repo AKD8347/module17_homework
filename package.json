@@ -1,0 +1,8 @@
+{
+  "name": "module17_homework",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
