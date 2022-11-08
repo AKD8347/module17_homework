@@ -6,3 +6,4 @@
 *.njsproj
 *.sln
 *.patch
+node_modules
